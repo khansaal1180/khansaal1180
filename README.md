@@ -4,7 +4,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="civeng2.png" alt="Khansa al Khumaira" width="200" style="border-radius:50%;"/>
+  <img src="civeng2.png.png" alt="Khansa al Khumaira" width="200" style="border-radius:50%;"/>
 </p>
 
 ---
